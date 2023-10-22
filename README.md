@@ -1,6 +1,8 @@
-# Lation's Service Center
+# Scripter's Personal Project
 
-A simple automated mechanic resource for ESX & QBcore.
+A simple automated mechanic resource 
+ 
+# STANDALONE
 
 ## Support, Scripts & More
 - [Click here to join our Discord](https://discord.gg/9EbY4nM5uu)
